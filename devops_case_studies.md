@@ -74,7 +74,7 @@ Spotify implemented what they called the "Spotify Model" - a DevOps approach foc
 - Fixing a bug that caused crashes: 15 minutes
 - Scaling for new users: Automatic, happens in real-time
 
-### **What Students Can Learn**
+### **What you Learned?**
 1. **Small changes, big impact**: DevOps isn't about massive overhauls - it's about many small improvements
 2. **Culture matters**: The biggest change was getting teams to work together
 3. **Automation saves time**: What took weeks now takes hours
@@ -137,7 +137,7 @@ Amazon created teams small enough to be fed by two pizzas (6-8 people). Each tea
 - **Downtime**: 0 minutes (compared to hours of downtime in pre-DevOps days)
 - **New features**: 15 new features launched during the 48-hour event
 
-### **What Students Can Learn**
+### **What you Learned?**
 1. **Start small, think big**: Amazon didn't transform overnight - it took years of gradual improvement
 2. **Ownership drives quality**: When teams own their code end-to-end, they build better systems
 3. **Automation enables scale**: You can't manually manage thousands of services
@@ -223,7 +223,7 @@ ING implemented a comprehensive DevOps transformation:
 - Automated compliance documentation
 - **Total: 4 months, delivered 8 months early**
 
-### **What Students Can Learn**
+### **What you Learned?**
 1. **DevOps works in regulated industries**: Even banks can move fast while staying compliant
 2. **Legacy systems aren't excuses**: You can modernize gradually without replacing everything
 3. **Culture change is crucial**: Technical changes must be accompanied by mindset changes
@@ -317,7 +317,7 @@ During the League of Legends World Championship:
 4. Automated global rollout if metrics are good (30 minutes)
 5. **Total time**: 3 hours, consistent experience globally
 
-### **What Students Can Learn**
+### **What you Learn?**
 1. **DevOps scales to any size**: From thousands to millions of users
 2. **Real-time systems need DevOps**: When milliseconds matter, automation is crucial
 3. **Global deployment is complex**: DevOps makes worldwide coordination possible
@@ -424,7 +424,7 @@ The government brought in a team of DevOps experts to fix the system:
 - The U.S. Digital Service was created to bring DevOps expertise to government
 - Continuous integration and deployment became mandatory for federal websites
 
-### **What Students Can Learn**
+### **What you Learned**
 1. **DevOps prevents disasters**: The initial failure could have been avoided with DevOps practices
 2. **It's never too late to implement DevOps**: Even a failing system can be rescued
 3. **DevOps works under pressure**: The transformation happened in just 2 months
